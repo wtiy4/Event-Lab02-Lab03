@@ -69,3 +69,12 @@ img {
 .channels-container li:hover {
     background-color: #666;
 }
+
+a {
+    width: 100px;
+    padding: 30px;
+    background-color: orange;
+    color: red;
+    margin: 100px;
+    font-size: 30px;
+}
